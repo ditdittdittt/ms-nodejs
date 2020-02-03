@@ -45,7 +45,7 @@ node index.js
 So there are 3 main function that you can use after run the microservice
 
 - Register (POST)
-[localhost:3000/users/register](localhost:3000/users/register)
+[localhost:3000/users/register](http://localhost:3000/users/register)
 with username and password in Body as JSON
 
 - Verify Token (GET)
